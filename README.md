@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HoseinHaqiqian
 - 👀 I’m interested in Android - Flutter - IoT 
-- 🌱 I’m currently learning ComputerVision 
 - 📫 How to reach me hosein1398@gmail.com
 
 <!---
