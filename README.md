@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @HoseinHaqiqian
-- 👀 I've been developing mobile applications for 5 years. Have deep understanding of Flutter and Android. 
+- 👋 Hi, I’m @HoseinHaqiqian, welcome to my github page, please review my repositories and feel free to open any discussion!
 - 📫 How to reach me hosein1398@gmail.com
 
 <!---
