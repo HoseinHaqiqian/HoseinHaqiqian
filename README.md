@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @HoseinHaqiqian, welcome to my github page.
-- Please review my repositories and feel free to open any discussion!
+- 👋 Hi, I’m @HoseinHaqiqian, who is curious about mobile apps, speccially developing them!
+
 - 📫 How to reach me hosein1398@gmail.com
 
 <!---
